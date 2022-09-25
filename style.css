@@ -1,0 +1,187 @@
+body{
+    background-color: #90d2f8;
+}
+h3{
+    color:mediumvioletred;
+}
+#main1, #main2{
+    border: 2px solid black;
+    width: 500px;
+}
+#heading p, #heading2 p{
+    display: inline-block;
+    font-size: large;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.divProperties{
+    width: 27px;
+    border-radius: 48%;
+    align-content: center;
+    
+}
+.outerDiv{
+    margin-top: 10px;
+    margin-left: 5px;
+    align-self: center;
+}
+#div0{
+    background-color: #ee2020;
+    height: 60px;
+    display: inline-block;
+}
+#div1{
+    background-color: #ec7272;
+    height: 65px;
+    display: inline-block;
+}
+#div2{
+    background-color: #ee8686;
+    height: 70px;
+    display: inline-block;
+}
+#div3{
+    background-color: #ee9999;
+    height: 75px;
+    display: inline-block;
+}
+#div4{
+    background-color: #f3a9a9;
+    height: 80px;
+    display: inline-block;
+}
+#div5{
+    background-color: #f1bcbc;
+    height: 85px;
+    display: inline-block;
+}
+#div6{
+    background-color: #f7e1e1;
+    height: 90px;
+    display: inline-block;
+}
+#div7{
+    background-color: #faf8f8;
+    height: 100px;
+    display: inline-block;
+}
+#div8{
+    background-color: #d9effc;
+    height: 90px;
+    display: inline-block;
+}
+#div9{
+    background-color: #d4eaf8;
+    height: 85px;
+    display: inline-block;
+}
+#div10{
+    background-color: #cee9fa;
+    height: 80px;
+    display: inline-block;
+}
+#div11{
+    background-color: #90d2f8;
+    height: 75px;
+    display: inline-block;
+}
+#div12{
+    background-color: #73c7f8;
+    height: 70px;
+    display: inline-block;
+}
+#div13{
+    background-color: #58bcf7;
+    height: 65px;
+    display: inline-block;
+}
+#div14{
+    background-color: #35b0f7;
+    height: 60px;
+    display: inline-block;
+}
+.numbersDiv{
+    margin-left: 6px;
+}
+.numbersDiv p{
+    display: inline-block;
+    margin-left: 13px;
+    letter-spacing: 3px;
+}
+
+#div0RGB{
+    background-color: rgb(238, 32, 32);
+    height: 60px;
+    display: inline-block;
+}
+#div1RGB{
+    background-color: rgb(236, 114, 114);
+    height: 65px;
+    display: inline-block;
+}
+#div2RGB{
+    background-color: rgb(238, 134, 134);
+    height: 70px;
+    display: inline-block;
+}
+#div3RGB{
+    background-color: rgb(238, 153, 153);
+    height: 75px;
+    display: inline-block;
+}
+#div4RGB{
+    background-color: rgb(243, 169, 169);
+    height: 80px;
+    display: inline-block;
+}
+#div5RGB{
+    background-color: rgb(241, 188, 188);
+    height: 85px;
+    display: inline-block;
+}
+#div6RGB{
+    background-color: rgb(247, 225, 225);
+    height: 90px;
+    display: inline-block;
+}
+#div7RGB{
+    background-color: rgb(250, 248, 248);
+    height: 100px;
+    display: inline-block;
+}
+#div8RGB{
+    background-color: rgb(217, 239, 252);
+    height: 90px;
+    display: inline-block;
+}
+#div9RGB{
+    background-color: rgb(212, 234, 248);
+    height: 85px;
+    display: inline-block;
+}
+#div10RGB{
+    background-color: rgb(206, 233, 250);
+    height: 80px;
+    display: inline-block;
+}
+#div11RGB{
+    background-color: rgb(144, 210, 248);
+    height: 75px;
+    display: inline-block;
+}
+#div12RGB{
+    background-color: rgb(115, 199, 248);
+    height: 70px;
+    display: inline-block;
+}
+#div13RGB{
+    background-color: rgb(88, 188, 247);
+    height: 65px;
+    display: inline-block;
+}
+#div14RGB{
+    background-color: rgb(53, 176, 247);
+    height: 60px;
+    display: inline-block;
+    align-content: center;
+}
